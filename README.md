@@ -20,3 +20,4 @@
 
 ### tips
 - constantsはenumで定義すると良い
+- [JSONEncoder（マジでクソ便利なものを作ってしまった、、）](https://github.com/miyakooti/myWiki/wiki/JSONEncoder.swift)

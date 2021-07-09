@@ -25,7 +25,7 @@
 ### UINavigationController
 
 ### tips
-- constantsはenumで定義すると良い
+- constantsはenumで定義すると良い(enum VCTypeみたいな感じにして、VCTypeに応じるプロパティを出力できるようにする。タイトルとか。)
 - [JSONEncoder（マジでクソ便利なものを作ってしまった、、）](https://github.com/miyakooti/myWiki/wiki/JSONEncoder.swift)
 - [現在日時（時刻）の取得](https://github.com/miyakooti/myWiki/wiki/%E7%8F%BE%E5%9C%A8%E6%99%82%E5%88%BB%E3%81%AE%E5%8F%96%E5%BE%97%EF%BC%88NSDate%EF%BC%89)
 

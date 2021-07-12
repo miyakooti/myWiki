@@ -32,3 +32,4 @@
 ### Figma（デザイン）
 - [便利UIパーツ](https://www.figma.com/community/file/858143367356468985)
 - [UI改修のためのヒント](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/)
+- アイデアは書き起こした上で取捨選択をすることで、改善させていく。

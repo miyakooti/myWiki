@@ -25,6 +25,7 @@
 
 ### UISwitch
 - [ラベルの付いたスイッチ](https://github.com/Cookiezby/LabelSwitch)
+- [apple公式](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/)
 
 
 ### UINavigationController

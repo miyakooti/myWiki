@@ -36,6 +36,9 @@
 
 ### UINavigationController
 
+### UIGestureRecognizer
+- [コードで設置できる](https://i-app-tec.com/ios/uigesturerecognizer.html)
+
 ### tips
 - constantsはenumで定義すると良い(enum VCTypeみたいな感じにして、VCTypeに応じるプロパティを出力できるようにする。タイトルとか。)
 - [JSONEncoder（マジでクソ便利なものを作ってしまった、、）](https://github.com/miyakooti/myWiki/wiki/JSONEncoder.swift)

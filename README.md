@@ -13,6 +13,7 @@
 
 
 ### UIImage
+- [UIImageをURLで初期化するextension](https://github.com/miyakooti/myWiki/wiki/UIImage%E3%82%92URL%E3%81%8B%E3%82%89%E7%94%9F%E6%88%90)
 
 
 
@@ -48,6 +49,9 @@
 - [現在日時（時刻）の取得](https://github.com/miyakooti/myWiki/wiki/%E7%8F%BE%E5%9C%A8%E6%99%82%E5%88%BB%E3%81%AE%E5%8F%96%E5%BE%97%EF%BC%88NSDate%EF%BC%89)
 - CGRect = CGSize + CGPoint
 - →[それぞれをViewに対して使用した例](https://program-life.com/198)
+- [tableViewのヘッダは、HeaderFooterViewでカスタムできる話](https://qiita.com/KikurageChan/items/e1847b54535df393d893)
+- 小さな機能の実装を積み重ねていくと、修正箇所が明確になりサクサク作れる
+- リストのうち値が0のものを抽出する、みたいなことはfilterでできる
 
 ### Figma（デザイン）
 - [便利UIパーツ](https://www.figma.com/community/file/858143367356468985)

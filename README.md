@@ -55,6 +55,7 @@
 - [tableViewのヘッダは、HeaderFooterViewでカスタムできる話](https://qiita.com/KikurageChan/items/e1847b54535df393d893)
 - 小さな機能の実装を積み重ねていくと、修正箇所が明確になりサクサク作れる
 - リストのうち値が0のものを抽出する、みたいなことはfilterでできる
+- 下から出てくるのは総称してアクションシートと呼ぶ。SNS共有とかUIAlertViewControllerのやつとか
 
 ### Figma（デザイン）
 - [便利UIパーツ](https://www.figma.com/community/file/858143367356468985)

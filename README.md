@@ -46,6 +46,15 @@
 ### UIGestureRecognizer
 - [コードで設置できる](https://i-app-tec.com/ios/uigesturerecognizer.html)
 
+### GCD
+- いつもは直列で順番に処理してるけど、GCDで並列にしたり非同期にしたり調整できて、最適化してくれる。
+- mainは直列で、globalは並列。privateはカスタムなのでどちらにもなる。
+- 並列のイメージ：順番通りにキューに追加しても、順番通りに出力されない感じ
+- 重い処理globalとかprivateとかにぶちこんで、その中でUIの処理だけmainにうつせばイイ感じになる
+- [参考文献1](https://dev.classmethod.jp/articles/gcd_swift/)
+- [参考文献2](https://qiita.com/ShoichiKuraoka/items/bb2a280688d29de3ff18)
+- [参考文献3](https://developer.apple.com/documentation/dispatch/dispatchqueue)
+
 ### tips
 - constantsはenumで定義すると良い(enum VCTypeみたいな感じにして、VCTypeに応じるプロパティを出力できるようにする。タイトルとか。)
 - [JSONEncoder（マジでクソ便利なものを作ってしまった、、）](https://github.com/miyakooti/myWiki/wiki/JSONEncoder.swift)

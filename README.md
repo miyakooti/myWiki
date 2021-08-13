@@ -57,7 +57,7 @@
 - リストのうち値が0のものを抽出する、みたいなことはfilterでできる
 - 下から出てくるのは総称してアクションシートと呼ぶ。SNS共有とかUIAlertViewControllerのやつとか
 - ctr + 6 でモジュール内のプロパティ一覧が見れる
-- 当たり前かもだけど、viewDidLoad()はtableViewのデリゲートメソッドよりも早く呼ばれる。
+- 当たり前かもだけど、viewDidLoad()はtableViewのデリゲートメソッドよりも早く呼ばれる。←そういうわけではないかも
 <img width="476" alt="スクリーンショット 2021-08-11 23 27 40" src="https://user-images.githubusercontent.com/60727025/129047499-7008ad31-c5c2-41cf-8adf-fed485bb4dfe.png">
 
 

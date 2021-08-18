@@ -43,6 +43,9 @@
 
 ### UINavigationController
 
+### UIAlertController
+- [こんな感じでaddCancelとかaddOKとかextensionしておくと便利]()
+
 ### UIGestureRecognizer
 - [コードで設置できる](https://i-app-tec.com/ios/uigesturerecognizer.html)
 

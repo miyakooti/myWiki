@@ -16,8 +16,12 @@
 ### UIImage
 - [UIImageをURLで初期化するextension](https://github.com/miyakooti/myWiki/wiki/UIImage%E3%82%92URL%E3%81%8B%E3%82%89%E7%94%9F%E6%88%90)
 - Nukeはまじで楽
+- UIImageの画像の色は、レンダリングモードというモードで登録することによって、動的に変更することができる。[レンダリングモード一覧](https://qiita.com/nashirox/items/2229b82dd68c6cc64603)、[使用例](https://qiita.com/Riscait/items/6779cc7c4d429fc6172f)
+- これでPrimaryColorとかで色を共通化することができる。
 
 
+### UIStackView
+- distributionはcssでいうjustifyContentみたいなやつ。中央揃えとか、両端とか
 
 ### UILabel
 - [正方形のラベルを円にするextension](https://github.com/miyakooti/myWiki/wiki/%E6%AD%A3%E6%96%B9%E5%BD%A2%E3%81%AE%E3%83%A9%E3%83%99%E3%83%AB%E3%82%92%E5%86%86%E3%81%AB%E3%81%99%E3%82%8B)
@@ -72,6 +76,9 @@
 - 当たり前かもだけど、viewDidLoad()はtableViewのデリゲートメソッドよりも早く呼ばれる。←そういうわけではないかも
 <img width="476" alt="スクリーンショット 2021-08-11 23 27 40" src="https://user-images.githubusercontent.com/60727025/129047499-7008ad31-c5c2-41cf-8adf-fed485bb4dfe.png">
 - guard let a = nil else { return }はfalseになるので抜け出す
+- ファイル名は取得できる
+- clipToBoundsでviewの外側に飛び出したやつを切り取ることができる
+- 
 
 
 ### Figma（デザイン）
@@ -85,12 +92,14 @@
 - ふわっとしているように思えるけど、実は結構論理的。「なぜこのデザインにしたか」は説明できるようにしないといけない。
 - ５とか１０とかインプットして、５０とか１００とかアウトプットして、そこから取捨選択していく。
 - UISwitchは「動作」ではなく「状態」のイメージ。（apple公式ドキュメントより）
+- - どういう問題に対してアプローチするかチャント言語化する
+
 
 ### 学習したいこと
-- [ ] MVVMで簡単なアプリを作る
+- [x] MVVMで簡単なアプリを作る
 - [x] ios設計パターンを読む
 - [ ] MySQLとアプリの接続
-- [ ] 自作API（rest）
+- [x] 自作API（rest）←ハッカソンで実現した！
 - [ ] デザイン全般を体系的にやりたい
 - [ ] gitを体系的に学習
 - [x] リーダブルコードを読む

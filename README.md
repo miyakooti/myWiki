@@ -79,6 +79,7 @@
 - ファイル名は取得できる
 - clipToBoundsでviewの外側に飛び出したやつを切り取ることができる
 - enumはallCasesで全部のとおり取得できる
+- [クラス名取得](https://qiita.com/miyakooti/items/b243cfded6d4e534dc94)
 
 
 ### Figma（デザイン）

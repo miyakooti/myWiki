@@ -58,6 +58,7 @@
 - [インスタンス化の拡張機能](https://github.com/miyakooti/myWiki/wiki/storyboard%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E5%8C%96%E3%81%99%E3%82%8Bextension)
 - [コード遷移まとめ](https://github.com/miyakooti/myWiki/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E3%81%AE%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB)
 - [ハーフモーダルpresentしたときに真っ黒になってしまう問題](https://dev.classmethod.jp/articles/dont_use_uipresentationcontroller/)
+- ↑コードでやるならこう ``vc.modalPresentationStyle = .overCurrentContext``
 
 
 ### GCD

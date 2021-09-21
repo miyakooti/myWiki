@@ -3,6 +3,9 @@
 
 <br>
 
+### UIViewController
+- ２値モーダルは、「はい」のときはデリゲートメソッドよんで、「いいえ」のときはdismissだけするようにすればテンプレとして利用できるよ
+
 ### UIView
 - [角を丸くするextension](https://github.com/miyakooti/myWiki/wiki/%E8%A7%92%E3%82%92%E4%B8%B8%E3%81%8F%E3%81%99%E3%82%8B)
 
@@ -13,13 +16,11 @@
 ### UIColor
 - [6桁の16進数でUIColorを初期化するextension](https://github.com/miyakooti/myWiki/wiki/6%E6%A1%81%E3%81%AE16%E9%80%B2%E6%95%B0%E3%81%A7UIColor%E3%82%92%E5%88%9D%E6%9C%9F%E5%8C%96%E3%81%99%E3%82%8B)
 
-
 ### UIImage
 - [UIImageをURLで初期化するextension](https://github.com/miyakooti/myWiki/wiki/UIImage%E3%82%92URL%E3%81%8B%E3%82%89%E7%94%9F%E6%88%90)
 - Nukeはまじで楽
 - UIImageの画像の色は、レンダリングモードというモードで登録することによって、動的に変更することができる。[レンダリングモード一覧](https://qiita.com/nashirox/items/2229b82dd68c6cc64603)、[使用例](https://qiita.com/Riscait/items/6779cc7c4d429fc6172f)
 - これでPrimaryColorとかで色を共通化することができる。
-
 
 ### UIStackView
 - distributionはcssでいうjustifyContentみたいなやつ。中央揃えとか、両端とか
@@ -29,6 +30,8 @@
 - [ラベルの文字に取り消し線をひく](https://github.com/miyakooti/myWiki/wiki/%E6%96%87%E5%AD%97%E3%81%AB%E5%8F%96%E3%82%8A%E6%B6%88%E3%81%97%E7%B7%9A%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B)
 - セクションとセルの関係は、２次元配列に対応している。
 
+### UITextField
+- 右のバツボタンはclearButtonという
 
 ### UITableView
 - モデルの情報を全てセル側の変数に読み込んであげると、後々楽

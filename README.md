@@ -12,6 +12,7 @@
 
 ### UIButton
 - [かどまる](https://github.com/miyakooti/myWiki/wiki/%E8%A7%92%E4%B8%B8)
+- 画像のinsetsがある
 
 ### UIColor
 - [6桁の16進数でUIColorを初期化するextension](https://github.com/miyakooti/myWiki/wiki/6%E6%A1%81%E3%81%AE16%E9%80%B2%E6%95%B0%E3%81%A7UIColor%E3%82%92%E5%88%9D%E6%9C%9F%E5%8C%96%E3%81%99%E3%82%8B)
@@ -21,6 +22,7 @@
 - Nukeはまじで楽
 - UIImageの画像の色は、レンダリングモードというモードで登録することによって、動的に変更することができる。[レンダリングモード一覧](https://qiita.com/nashirox/items/2229b82dd68c6cc64603)、[使用例](https://qiita.com/Riscait/items/6779cc7c4d429fc6172f)
 - これでPrimaryColorとかで色を共通化することができる。
+- レンダリングモードはassetsのインスペクタからも指定できる
 
 ### UIStackView
 - distributionはcssでいうjustifyContentみたいなやつ。中央揃えとか、両端とか

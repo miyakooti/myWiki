@@ -24,6 +24,7 @@
 - UIImageの画像の色は、レンダリングモードというモードで登録することによって、動的に変更することができる。[レンダリングモード一覧](https://qiita.com/nashirox/items/2229b82dd68c6cc64603)、[使用例](https://qiita.com/Riscait/items/6779cc7c4d429fc6172f)
 - これでPrimaryColorとかで色を共通化することができる。
 - レンダリングモードはassetsのインスペクタからも指定できる
+- swiftygenでassetsに画像ぶち込んだら、自動でコード生成してくれるようにできる。`named: ""`のところのタイポ防止できる
 
 ### UIStackView
 - distributionはcssでいうjustifyContentみたいなやつ。中央揃えとか、両端とか
@@ -93,12 +94,12 @@
 - 青いフォルダはフォルダー参照で、黄色はグループ。参照型と値型みたいなイメージ。他プロジェクトからコピペするときにどちらかを選択できる
 - 非表示したときに詰めたいときは、constantをiboutletしてheightを0にしたりすればよい
 - uiStackViewはuiVIew継承したやつなので、UIGestureRecognizerつけれる
-
 - guard let a = nil else { return }はfalseになるので抜け出す
 - ファイル名は取得できる
 - clipToBoundsでviewの外側に飛び出したやつを切り取ることができる
 - enumはallCasesで全部のとおり取得できる
 - [クラス名取得](https://qiita.com/miyakooti/items/b243cfded6d4e534dc94)
+- 赤や黄色の行は「静的コード解析」によるもの
 
 
 ### Figma（デザイン）

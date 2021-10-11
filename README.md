@@ -45,7 +45,10 @@
 - 
 
 ### UITabbarController
-- 
+-
+
+### UISlider
+-
 
 ### UISwitch
 - [ラベルの付いたスイッチ](https://github.com/Cookiezby/LabelSwitch)

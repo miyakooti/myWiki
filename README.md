@@ -14,6 +14,7 @@
 
 ### UIButton
 - [かどまる](https://github.com/miyakooti/myWiki/wiki/%E8%A7%92%E4%B8%B8)
+- [角丸の場所を指定する](https://github.com/miyakooti/myWiki/wiki/%E8%A7%92%E4%B8%B8%E3%81%AE%E5%A0%B4%E6%89%80%E3%82%92%E6%8C%87%E5%AE%9A%E3%81%99%E3%82%8BExtension)
 - 画像のinsetsがある
 - 文字色は```titlefortext```
 

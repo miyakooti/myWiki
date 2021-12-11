@@ -6,7 +6,7 @@
 <br>
 
 ### UIViewController
-- ２値モーダルは、「はい」のときはデリゲートメソッドよんで、「いいえ」のときはdismissだけするようにすればテンプレとして利用できるよ
+- ２値モーダルは、「はい」のときはデリゲートメソッドよんで、「いいえ」のときはdismissだけするようにすればテンプレとして利用できる
 
 ### UIView
 - [角を丸くするextension](https://github.com/miyakooti/myWiki/wiki/%E8%A7%92%E3%82%92%E4%B8%B8%E3%81%8F%E3%81%99%E3%82%8B)

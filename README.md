@@ -111,7 +111,7 @@
 - クロージャー内でselfを強参照するとメモリリークしそう
 - notification centerは値をくることもできる
 - UILabelでもawakeFromNib()をオーバーライドすれば、ストーリーボードから来たやつでも、描画後に任意の処理を行うことができる。
-- 
+- [protocolを定義するときにはAnyObjectを継承することが推奨されている](https://qiita.com/yimajo/items/892bd2fe1ccb808ffe49)
 
 
 ### Figma（デザイン）

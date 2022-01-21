@@ -54,6 +54,11 @@
 ### UISlider
 -
 
+### UIScrollView
+- scrollViewDidScrollで、UICollectionviewとかtableViewとかをスクロールしたときのイベントを取得することができる。
+- めちゃめちゃ連続的に呼ばれる
+
+
 ### UISwitch
 - [ラベルの付いたスイッチ](https://github.com/Cookiezby/LabelSwitch)
 - （↑の補足） LabelSwitchの大きさは、文字の大きさに比例している。

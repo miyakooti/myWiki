@@ -2,6 +2,7 @@
 備忘録
 - [access token](https://www.youtube.com/watch?v=mpyNlGEuiR8&ab_channel=ArjunCodes)
 - [access token2](https://www.fixes.pub/program/284387.html)
+- ipynbからhtml生成できるの初めて知ったわ、説明しやすいやん
 
 <br>
 
